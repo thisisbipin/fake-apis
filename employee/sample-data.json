@@ -1,0 +1,115 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "first_name": "Rahul",
+            "last_name": "Sharma",
+            "phone": "987-654-3210",
+            "email": "rahul.sharma@example.com",
+            "role": "Software Engineer",
+            "hire_date": "2022-01-15",
+            "salary": 75000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 2,
+            "first_name": "Priya",
+            "last_name": "Singh",
+            "phone": "876-543-2109",
+            "email": "priya.singh@example.com",
+            "role": "Project Manager",
+            "hire_date": "2021-03-20",
+            "salary": 90000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 3,
+            "first_name": "Amit",
+            "last_name": "Kumar",
+            "phone": "765-432-1098",
+            "email": "amit.kumar@example.com",
+            "role": "UX Designer",
+            "hire_date": "2023-06-01",
+            "salary": 70000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 4,
+            "first_name": "Neha",
+            "last_name": "Gupta",
+            "phone": "654-321-0987",
+            "email": "neha.gupta@example.com",
+            "role": "Data Analyst",
+            "hire_date": "2022-09-10",
+            "salary": 68000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 5,
+            "first_name": "Vikram",
+            "last_name": "Yadav",
+            "phone": "543-210-9876",
+            "email": "vikram.yadav@example.com",
+            "role": "DevOps Engineer",
+            "hire_date": "2021-11-25",
+            "salary": 85000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 6,
+            "first_name": "Anjali",
+            "last_name": "Reddy",
+            "phone": "432-109-8765",
+            "email": "anjali.reddy@example.com",
+            "role": "Marketing Specialist",
+            "hire_date": "2023-02-14",
+            "salary": 60000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 7,
+            "first_name": "Sanjay",
+            "last_name": "Mehta",
+            "phone": "321-098-7654",
+            "email": "sanjay.mehta@example.com",
+            "role": "Sales Representative",
+            "hire_date": "2022-04-01",
+            "salary": 65000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 8,
+            "first_name": "Kavita",
+            "last_name": "Patel",
+            "phone": "210-987-6543",
+            "email": "kavita.patel@example.com",
+            "role": "HR Manager",
+            "hire_date": "2020-07-01",
+            "salary": 95000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 9,
+            "first_name": "Arjun",
+            "last_name": "Dubey",
+            "phone": "109-876-5432",
+            "email": "arjun.dubey@example.com",
+            "role": "Network Administrator",
+            "hire_date": "2023-01-01",
+            "salary": 72000,
+            "employment_status": "Active"
+        },
+        {
+            "id": 10,
+            "first_name": "Pooja",
+            "last_name": "Jain",
+            "phone": "098-765-4321",
+            "email": "pooja.jain@example.com",
+            "role": "Product Manager",
+            "hire_date": "2021-08-10",
+            "salary": 88000,
+            "employment_status": "Active"
+        }
+    ],
+    "totalRecords": 10
+}
